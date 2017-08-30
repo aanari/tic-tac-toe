@@ -6,6 +6,10 @@
 
 This is a command-line [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) game in which you are pitted against the WOPR (War Operations Planned Response) computer, inspired by the 1983 Cold War film [WarGames](https://en.wikipedia.org/wiki/WarGames).
 
+## Gameplay
+
+![](gameplay.gif)
+
 ## Instructions
 
 Install the dependencies using [pip](https://pypi.python.org/pypi/pip):
