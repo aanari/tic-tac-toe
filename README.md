@@ -8,10 +8,16 @@ This is a command-line [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) 
 
 ## Instructions
 
-Simply execute the Python script in this repository, or for the lazy, run the following one-liner `curl` command:
+Install the dependencies using [pip](https://pypi.python.org/pypi/pip):
 
 ```sh
-python <(curl -s https://raw.githubusercontent.com/aanari/tic-tac-toe/master/tic_tac_toe.py)
+pip install -r requirements.txt
+```
+
+Now execute the Python script in this repository:
+
+```sh
+python tic_tac_toe.py
 ```
 
 **Note**: The game board is numbered 1 - 9, starting from the bottom left corner.
